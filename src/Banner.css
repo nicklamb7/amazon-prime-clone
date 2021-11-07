@@ -1,0 +1,15 @@
+.banner {
+    margin-top: 60px;
+    position: relative;
+    box-sizing: border-box;
+    background-image: url("https://m.media-amazon.com/images/S/sonata-images-prod/UK_Hero_One_Night_In_Miami_Evergreen/5d5f7dbc-4bbf-4102-a71b-d8422956b42f._UR3000,600_SX3000_FMwebp_.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 100%;
+    left: 0;
+    top: 0;
+    object-fit: cover;
+    margin-bottom: 24px;
+}
